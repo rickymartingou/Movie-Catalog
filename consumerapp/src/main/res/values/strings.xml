@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="venom">venom</string>
+    <string name="movies">Movie</string>
+    <string name="tv_shows">TV</string>
+    <string name="there_is_no_data">There is no data</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A_Submisi</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="venom">Venom</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="there_is_no_data">There is no Data</string>
+    <string name="appwidget_text">Favorite Poster</string>
+    <string name="change_notification_settings">Change Notification Settings</string>
+    <string name="we_miss_you_notification">We Miss You Notification</string>
+    <string name="new_movie_notification">New Movie Notification</string>
+</resources>

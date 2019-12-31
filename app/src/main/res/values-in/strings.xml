@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MADE_Submisi_Ketiga</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Acara Televisi</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+    <string name="favorite">Disukai</string>
+    <string name="favorites">Disukai</string>
+    <string name="no_internet_connection">Tidak ada koneksi Internet</string>
+    <string name="there_is_no_data">Tidak ada data</string>
+    <string name="venom">Venom</string>
+    <string name="appwidget_text">Poster Disukai</string>
+    <string name="change_notification_settings">Pengaturan Notifikasi</string>
+    <string name="we_miss_you_notification">Notifikasi Rindu</string>
+    <string name="new_movie_notification">Notifikasi Film Baru</string>
+</resources>
